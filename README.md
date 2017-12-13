@@ -9,4 +9,4 @@ There are currently two datasets available:
 
 For details on the two corpora, how they were created and what frames they include, check my Phd thesis:
 
-Sara Tonelli (2010). Semi-automatic Techniques for Extending the FrameNet Lexical Database to New Languages. PhD thesis, Dept. of Language Sciences, Università Ca’ Foscari, Venezia, Italy.
+Sara Tonelli (2010). Semi-automatic Techniques for Extending the FrameNet Lexical Database to New Languages. PhD thesis, Dept. of Language Sciences, Università Ca’ Foscari, Venezia, Italy (available at: http://dspace.unive.it/handle/10579/1025)
